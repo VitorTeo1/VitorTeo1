@@ -11,10 +11,14 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - ⚡ Fun fact: ...
 -->
-Olá, seja bem vindo!
+Olá, seja bem vindo 👋
+
+<div align="center">
+
+![](https://streak-stats.demolab.com?user=VitorTeo1&theme=github-dark)
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=VitorTeo1&theme=github_dark)
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=VitorTeo1&theme=github_dark)
-
 ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=VitorTeo1&theme=github_dark)
+
+</div>
