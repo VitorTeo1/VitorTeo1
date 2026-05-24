@@ -13,10 +13,8 @@ Here are some ideas to get you started:
 -->
 Olá, seja bem vindo!
 
-<div align="center">
-  <a href="https://github.com/VitorTeo1">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=VitorTeo1&show_icons=true&theme=github_dark&include_all_commits=true&count_private=false"/>
-    
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VitorTeo1&layout=compact&langs_count=7&theme=github_dark"/>
-  </a>
-</div>
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=VitorTeo1&theme=github_dark)
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=VitorTeo1&theme=github_dark)
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=VitorTeo1&theme=github_dark)
